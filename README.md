@@ -1,27 +1,93 @@
-<h1 align="center">Hi 👋, I'm Sitesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm Sitesh Kumar
 
-- 🔭 I’m currently working on [Movix](https://github.com/TheSiteshKumar/movix)
+**`Full-Stack Developer | Open-Source Contributor | Tech Enthusiast`**
 
-- 🌱 I’m currently learning **MERN Stack**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siteshkumar/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheSiteshKumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siteshkumar.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.siteshkumar.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheSiteshKumar/](https://github.com/TheSiteshKumar/)
+---
 
-- 📫 How to reach me **thesiteshkumar@gmail.com**
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thesiteshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesiteshkumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thesiteshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesiteshkumar" height="30" width="40" /></a>
-<a href="https://fb.com/thesiteshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thesiteshkumar" height="30" width="40" /></a>
-<a href="https://instagram.com/thesiteshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesiteshkumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thesiteshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesiteshkumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thesiteshkumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thesiteshkumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thesiteshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thesiteshkumar" height="30" width="40" /></a>
-</p>
+### 💳 Modern Blog Platform
+[![Blog Preview](https://res.cloudinary.com/dctevx0rr/image/upload/c_scale,w_400/v1741496787/siteshkumar.com/blog.png)](https://next-blog2025.netlify.app/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+A full-featured blogging platform with article management and SEO optimization  
+**Tech Stack**:  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiteshkumar&show_icons=true&locale=en&layout=compact" alt="thesiteshkumar" /></p>
+[![Demo](https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=vercel&logoColor=white)](https://next-blog2025.netlify.app/)
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSiteshKumar/modern-blog-platform)
 
+---
+
+### 👔 Job Portal HR Platform
+[![HR Platform Preview](https://res.cloudinary.com/dctevx0rr/image/upload/c_scale,w_400/v1741496788/siteshkumar.com/job.png)](https://job-portal-hr.netlify.app/)
+
+Enterprise-grade HR solution with job management and candidate tracking  
+**Tech Stack**:  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+[![Demo](https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=vercel&logoColor=white)](https://job-portal-hr.netlify.app/)
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSiteshKumar/hr-job-portal)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=TheSiteshKumar&theme=react&border_radius=5&mode=weekly)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSiteshKumar&layout=compact&theme=react&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheSiteshKumar&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@siteshkumar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siteshkumar/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheSiteshKumar)
+
+</div>
+
+---
+
+⭐ From [Sitesh Kumar](https://github.com/TheSiteshKumar)  
+💡 "Building solutions that matter, one commit at a time"
